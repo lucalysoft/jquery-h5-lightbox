@@ -1,6 +1,6 @@
 {
   "name": "jquery-plugin",
-  "version": "v1.2.2-d",
+  "version": "1.2.3",
   "engines": {
     "node": ">= 0.8.0"
   },
