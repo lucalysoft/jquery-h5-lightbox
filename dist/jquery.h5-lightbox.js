@@ -1,5 +1,5 @@
-/*! H5 Lightbox - v1.2.1 - 2013-09-26
-* https://github.com/morganestes/h5-lightbox
+/*! HTML5 Lightbox - vv1.2.4-d - 2013-09-26
+* http://morganestes.me/h5-lightbox
 * Copyright (c) 2013 Morgan Estes; Licensed MIT */
 /*!
  * h5-lightbox jQuery plugin

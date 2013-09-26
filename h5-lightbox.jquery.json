@@ -1,9 +1,9 @@
 {
   "name": "h5-lightbox",
-  "title": "H5 Lightbox",
+  "title": "HTML5 Lightbox",
   "description": "jQuery plugin to create simple modal lightboxes using the HTML5 data attribute.",
   "version": "v1.2.4-d",
-  "homepage": "https://github.com/morganestes/h5-lightbox",
+  "homepage": "http://morganestes.me/h5-lightbox",
   "author": {
     "name": "Morgan Estes",
     "email": "morgan.estes@gmail.com",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/morganestes/h5-lightbox.git"
+    "url": "git://github.com/morganestes/jquery-h5-lightbox.git"
   },
-  "bugs": "https://github.com/morganestes/h5-lightbox/issues",
+  "bugs": "https://github.com/morganestes/jquery-h5-lightbox/issues",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/morganestes/h5-lightbox/blob/master/LICENSE-MIT"
+      "url": "https://github.com/morganestes/jquery-h5-lightbox/blob/master/LICENSE-MIT"
     }
   ],
   "dependencies": {
