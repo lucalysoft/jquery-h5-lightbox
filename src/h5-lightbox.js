@@ -1,12 +1,3 @@
-/*!
- * h5-lightbox jQuery plugin
- *
- * @version 1.2.1
- * @author Morgan Estes (@morganestes) http://github.com/morganestes
- * @link http://plugins.jquery.com/h5-lightbox/
- * @uses Lightbox code: http://bit.ly/MzTDLT
- * @license Copyright (c) 2013 Morgan Estes. Licensed under the MIT license.
- */
 (function( $ ) {
 $.fn.h5lightbox = function( options ) {
 

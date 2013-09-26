@@ -1,15 +1,6 @@
-/*! HTML5 Lightbox - vv1.2.4-d - 2013-09-26
+/*! h5-lightbox - vv1.2.4-d - 2013-09-26
 * http://morganestes.me/h5-lightbox
 * Copyright (c) 2013 Morgan Estes; Licensed MIT */
-/*!
- * h5-lightbox jQuery plugin
- *
- * @version 1.2.1
- * @author Morgan Estes (@morganestes) http://github.com/morganestes
- * @link http://plugins.jquery.com/h5-lightbox/
- * @uses Lightbox code: http://bit.ly/MzTDLT
- * @license Copyright (c) 2013 Morgan Estes. Licensed under the MIT license.
- */
 (function( $ ) {
 $.fn.h5lightbox = function( options ) {
 
