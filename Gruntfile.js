@@ -2,7 +2,7 @@
 
 module.exports = function(grunt) {
 
-  // Project configuration.
+	// Project configuration.
   grunt.initConfig({
     // Metadata.
     pkg: grunt.file.readJSON('h5-lightbox.jquery.json'),
@@ -84,5 +84,8 @@ module.exports = function(grunt) {
 
   // Default task.
   grunt.registerTask('default', ['jshint', 'qunit', 'clean', 'concat', 'uglify']);
+
+  // Build for release.
+  grunt.registerTask('release', ['bump-only', 'default', 'bump-commit']);
 
 };
