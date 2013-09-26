@@ -1,4 +1,4 @@
-/*! h5-lightbox - v1.2.14 - 2013-09-26
+/*! h5-lightbox - vv1.2.15 - 2013-09-26
 * http://morganestes.me/h5-lightbox
 * Copyright (c) 2013 Morgan Estes; Licensed MIT */
 (function( $ ) {
