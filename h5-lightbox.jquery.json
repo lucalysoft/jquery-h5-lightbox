@@ -2,7 +2,7 @@
   "name": "h5-lightbox",
   "title": "H5 Lightbox",
   "description": "jQuery plugin to create simple modal lightboxes using the HTML5 data attribute.",
-  "version": "v1.2.2-d",
+  "version": "v1.2.4-d",
   "homepage": "https://github.com/morganestes/h5-lightbox",
   "author": {
     "name": "Morgan Estes",
