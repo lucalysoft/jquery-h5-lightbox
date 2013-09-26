@@ -86,6 +86,7 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['jshint', 'qunit', 'clean', 'concat', 'uglify']);
 
   // Build for release.
-  grunt.registerTask('release', ['bump-only', 'clean', 'concat', 'uglify', 'bump-commit']);
+  grunt.registerTask('release-prep', ['clean', 'bump-only']);
+  grunt.registerTask('release', ['concat', 'uglify', 'bump-commit']);
 
 };
